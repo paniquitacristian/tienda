@@ -1,0 +1,5 @@
+ #para ignorar carpetas se coloca el nombre de la capeta y finaliza con /
+ # css/
+
+ #para ignorar archivos se coloca el nombre del archivo con su extencion
+ #README.md
